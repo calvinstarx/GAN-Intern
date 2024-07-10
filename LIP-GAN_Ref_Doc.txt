@@ -1,0 +1,25 @@
+The feasibility of this project
+
+	Refer PPT attached.
+
+IEEE and research papers on Arxiv ----> 
+
+	Refer PDF attached.
+
+Open-source code in Githib ---->
+
+	https://github.com/calvinstarx/GAN-Intern
+
+
+Open-source models on Huggingface  ----> referred some models from Hugging Face The AI community building the future.
+
+	https://github.com/huggingface
+
+Other articles on Medium and other blogs ----> Referred some articles related to LIP-GAN in medium blogs;
+
+	https://medium.com/axinc-ai/lipgan-machine-learning-model-for-generating-lip-sync-videos-d04884061cfa
+	https://medium.com/deepgamingai/deepfakes-ai-improved-lip-sync-animations-with-wav2lip-b5d4f590dcf
+
+Code GAN ---->
+
+	Attached in Github. 
